@@ -1,0 +1,1 @@
+I've been wandering the web a little to check for sgf parsers for a go game, but i've found very little of help on that. So i've decided to build a library of parsers for multiple language, i'll start with xCode, than php and python and after that i don't know.
